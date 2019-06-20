@@ -6,7 +6,10 @@
 #define EX5_CLIENT_H
 
 
-class client
+
+
+
+class Client
 {
 
 };
